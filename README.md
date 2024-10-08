@@ -7,22 +7,22 @@ Currently only seeduino xiao (cortex m0) is supported.
 # Roadmap
 Current roadmap is
 Pure implementations without HAL:
--[ ] c
--[ ] cpp
--[ ] rust
--[ ] zig
--[ ] haskell
+- [ ] c
+- [ ] cpp
+- [ ] rust
+- [ ] zig
+- [ ] haskell
 
 Implementations with HAL:
--[ ] c
--[ ] cpp
--[ ] rust
--[ ] zig
--[ ] haskell
+- [ ] c
+- [ ] cpp
+- [ ] rust
+- [ ] zig
+- [ ] haskell
 
 Implementations with frameworks:
--[ ] c
--[ ] cpp
--[ ] rust
--[ ] zig
--[ ] haskell
+- [ ] c
+- [ ] cpp
+- [ ] rust
+- [ ] zig
+- [ ] haskell
